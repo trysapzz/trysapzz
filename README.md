@@ -2,7 +2,7 @@
 
 📚  I am a passionate mathematician and developer who thrives on constant interest.
 
-💡 I'm currently diving deep into the fascinating world of Next.js.
+💡 I'm currently diving deep into the fascinating world of Nuxt.js.
 
 🧠 Additionally, I'm also delving into the world of neural networks.
 
